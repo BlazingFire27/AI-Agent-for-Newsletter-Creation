@@ -61,6 +61,6 @@ To bring together all the collected data and assemble in the html_template and o
 User can input multiple URLs by simply separating each by comma
 
 ## OUTPUT Newsletter
-![Top of Newsletter](Output_html_content_preview/Top.png)
-![Mid of Newsletter](Output_html_content_preview/mid.png)
-![Bottom of Newsletter](Output_html_content_preview/bottom.png)
+![Top of Newsletter](Output%20html%20content%20preview/Top.png)
+![Mid of Newsletter](Output%20html%20content%20preview/mid.png)
+![Bottom of Newsletter](Output%20html%20content%20preview/bottom.png)
